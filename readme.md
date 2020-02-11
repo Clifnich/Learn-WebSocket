@@ -1,7 +1,7 @@
 # Learn-WebSocket
 This repository contains a simple WebSocket server written in Java. We use Maven as the dependency manager. It also contains a web page together with JavaScript code to interact with the WebSocket server.
 
-(provide a link to the Chinese version
+中文版 readme 请看[这里](https://github.com/Clifnich/Learn-WebSocket/blob/master/readme_ZN.md).
 
 ## Run the Server
 
